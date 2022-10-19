@@ -1,0 +1,43 @@
+.end {
+    margin: 0;
+    padding: 0;
+    height: 590.4px;
+    width: 1456.4;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.review {
+    display: flex;
+    justify-content: center;
+}
+
+.review>h1 {
+    margin-top: 60px;
+    font-size: 50px;
+}
+
+.review>h1>span {
+    color: rgb(164, 164, 10);
+}
+
+.cardd {
+    background: #fff;
+    width: 318px;
+    height: 396px;
+}
+
+.cardd>textarea {
+    margin-left: 440px;
+    margin-top: 30px;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    font-size: x-large;
+}
+
+.cardd>div {
+    margin-top: 40px;
+    margin-left: 690px;
+}

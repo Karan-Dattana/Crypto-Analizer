@@ -1,0 +1,82 @@
+.about {
+    margin: 0;
+    padding: 0;
+    height: 790.4px;
+    width: 1456.4;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-color: #242424;
+    display: flex;
+    ;
+}
+
+.img>img {
+    margin-top: 140px;
+    width: 748px;
+    height: 510.38;
+}
+
+.co {
+    width: 508px;
+    height: 623;
+    justify-content: center;
+    padding-left: 90px;
+}
+
+.aw {
+    margin-top: 90px;
+    color: white;
+}
+
+.co>div>h1 {
+    font-family: monospace;
+    font-size: 65px;
+}
+
+.span {
+    color: yellow;
+}
+
+.ab {
+    font-family: Sans-serif;
+    color: white;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.per1 {
+    width: 70%;
+    /* background-color: linear-gradient( 90deg, #f4d157, #ea9322); */
+    background-color: yellow;
+    height: 5px;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+.perc>h2 {
+    color: white;
+}
+
+.perc {
+    padding-top: 30px;
+}
+
+.per2 {
+    width: 50%;
+    /* background-color: linear-gradient( 90deg, #f4d157, #ea9322); */
+    background-color: yellow;
+    height: 5px;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+.per3 {
+    width: 60%;
+    /* background-color: linear-gradient( 90deg, #f4d157, #ea9322); */
+    background-color: yellow;
+    height: 5px;
+    border-radius: 30px;
+    margin-top: 10px;
+}
